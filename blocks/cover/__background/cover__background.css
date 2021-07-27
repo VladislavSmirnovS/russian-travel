@@ -1,7 +1,6 @@
 .cover__background {
   background: center center no-repeat
     url("../../../sprint-3-images/cover-trains.jpg");
-
   width: 100%;
   min-height: 740px;
   background-size: cover;
@@ -20,6 +19,7 @@
     min-height: 480px;
   }
 }
+
 @media screen and (max-width: 320px) {
   .cover__background {
     width: 320px;
