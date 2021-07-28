@@ -1,8 +1,9 @@
 .lead {
-  margin: 0 148px 92px 148px;
+  margin: 0 auto 92px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+
+  max-width: 984px;
 }
 
 @media screen and (max-width: 1024px) {

@@ -8,14 +8,12 @@
 
 @media screen and (max-width: 1024px) {
   .cover__background {
-    width: 100%;
     min-height: 640px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .cover__background {
-    width: 100%;
     min-height: 480px;
   }
 }
